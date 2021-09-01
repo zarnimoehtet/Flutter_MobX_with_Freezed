@@ -1,16 +1,12 @@
-# flutter_application_1
+# Flutter MobX with Freezed and Retrofit
 
-A new Flutter project.
+### အကြောင်းအရာ
+1. လက်ရှိရေးပြီးသမျှ ကို **main branch** တွင် push ထားပါသည်။
+2. နောက်ရေးမယ့် အပိုင်းတွေကို **branch** ခွဲပြီး push သွားပါမယ်။
+3. လက်ရှိမှာ **State Management** ပြီးထားပါတယ်။
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TODO
+- အရင်ဆုံး project ကို clone လုပ်ပါ။
+- **Video** နဲ့တွဲကြည့်ပြီးလိုက်လုပ်ပေးပါ။ ကိုယ်တိုင် project ဆောက်ပြီးရေးပါ။ လိုမှ code ကြည့်ပါ။
+- **State Management** ကိုရအောင်လုပ်ပြီးမှ တခြား **branch** ကဟာတွေကိုလေ့လာပါ။
